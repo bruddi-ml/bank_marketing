@@ -1,4 +1,4 @@
-# 🧠 Bank Marketing Predictor API
+# Bank Marketing Predictor API
 
 A modular **FastAPI** service for predicting whether a bank customer will subscribe to a term deposit — powered by multiple trained ML models (Logistic Regression, LightGBM, Random Forest, and Voting Classifier).
 
