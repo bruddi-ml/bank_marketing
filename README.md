@@ -51,7 +51,7 @@ response = requests.post(
 print(response.json())
 ```
 
-Or run the test_api.py script
+Or run the client/test_api.py script
 
 ## File overview
 ```bash
